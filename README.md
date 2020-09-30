@@ -3,9 +3,9 @@
 
 #define randmax 32767
 
-using namespace std;
+using namespace;
 
-char pyraminx(int l){
+char pyraminx(int){
 	char x;
 	array[]={"F","B","R","L","F*","B*","R*","L*","f","r","l","b","f*","b*","l*","r*"};
 	for(int i=0;i<l;i++){
